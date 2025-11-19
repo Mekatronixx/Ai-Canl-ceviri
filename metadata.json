@@ -1,0 +1,8 @@
+{
+  "name": "Canlı Çeviri",
+  "description": "Real-time video call translation using Gemini Live API. Speak in one language, and the AI translates and speaks in another.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
